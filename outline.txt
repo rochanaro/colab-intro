@@ -1,0 +1,47 @@
+https://colab.research.google.com/
+
+
+Basic Intoruduction
+	What is Colab?
+		Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
+			Zero configuration required
+			Access to GPUs free of charge
+			Easy sharing
+
+	Ways to start colab
+		Google Search "Google Colab" and save a copy	
+		upload the .ipynb to google colab and open-with --> connect more-apps --> Colaboratory
+	
+	sharing the notebook with others 
+	
+	python env
+		!python --version
+	
+	Runtime
+		resources
+		Change runtime type
+	
+	Cells
+		in jupyter notebooks
+			code, markdown, raw
+		in colab notebooks
+			code
+			text
+	
+	Files (left upper)
+		accessing external files
+			connecting to google drive
+				from google.colab import drive
+				drive.mount('/content/drive')			
+			via github cloning
+				!git clone url_ending__.git
+		saving files
+			to drive connecting to google drive
+			to github - file save to github
+
+
+Quickly Go through colab_stanford.pdf
+
+
+Quick demo on PyTorch_training.pynb - Muntabir's Notebook
+		
