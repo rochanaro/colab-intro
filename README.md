@@ -1,8 +1,6 @@
-This is a repository created to give an introduction to Google Colaboratory for the ODU staff and students.
+This repository offers introductory materials on Google Colaboratory. The content covered is outlined below.
 
-These set of materilas are outlined as follows.
-
-1.   Basic Intoruduction
+1. Basic Intoruduction
     - What is Colab?
     - Ways to start colab
         - Google Search "Google Colab"
@@ -10,13 +8,15 @@ These set of materilas are outlined as follows.
     - Sharing the notebook with others
     - python env
         - !python --version
+    - subshell "!" and magic "%" commands
+    - Getting started
     - Runtime
         - resources
         - change runtime type - CPU, GPU
     - Cells
 		- in jupyter notebooks
 		- in colab notebooks    
-    - Files (left upper)
+    - Files
         - accessing external files
             - connecting to google drive
             - via github cloning
@@ -24,10 +24,11 @@ These set of materilas are outlined as follows.
 			- to drive connecting to google drive
 			- to github
 
-2.   colab_stanford.pdf
+2. colab_stanford.pdf
 
-3.   Quick demo on PyTorch_training.pynb
+3. Quick demo on PyTorch_training.pynb
 
+4. Additional Resources
 
 <br><br>
 
